@@ -52,10 +52,6 @@ The objective was to identify high-value customers, understand retention risks, 
 * Analyze customer inactivity across customer segments, industries, and regions.
 * Evaluate retention performance across customer groups.
 
-### 4. Where are the greatest growth opportunities?
-
-* Identify industries, segments, and regions that present the strongest opportunities for future customer value growth.
-
 ---
 
 ## Data Cleaning & Validation
